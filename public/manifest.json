@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "secureapp",
+  "name": "secure made with love by marmik",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,13 +8,13 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
+      "src": "logo192.ico",
+      "type": "image/ico",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
+      "src": "logo512.ico",
+      "type": "image/ico",
       "sizes": "512x512"
     }
   ],
